@@ -1,5 +1,5 @@
 {
-  "name": "front-end-billet-grunt",
+  "name": "front-end-boilerplate-grunt",
   "version": "0.0.1",
   "description": "Заготовка для быстрого создания сайтов на grunt",
   "main": "Gruntfile.js",
@@ -7,11 +7,11 @@
     "test": "jest"
   },
   "keywords": [
-    "front-end-billet",
+    "front-end-boilerplate-grunt",
     "grunt"
   ],
   "author": "Maksim Jhuchkov",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "devDependencies": {
     "connect-livereload": "^0.6.1",
     "grunt": "^1.3.0",
