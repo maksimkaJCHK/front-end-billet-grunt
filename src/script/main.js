@@ -6,7 +6,6 @@ const node = document.getElementById('app');
 
 export default class Primer extends Component {
   render() {
-
     return (
       <div id="example-app">
         <p>Заготовка для приложения</p>
@@ -16,6 +15,6 @@ export default class Primer extends Component {
 }
 
 ReactDOM.render(
-  <Primer name="Максим" />,
+  <Primer  />,
   node
 )
